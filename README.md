@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Harry Beckwith for the coin flip animation: https://jsfiddle.net/harryB/431s6pex/
 
 ## Dependencies
-npm i chart.js
+npm i chart.js<br />
 npm i react-chartjs-2
 
 ## Available Scripts
